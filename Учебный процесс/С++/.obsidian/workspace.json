@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "b9658150fbc17ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f52436b229fba24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f213772a342534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4482649e8a0dc930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "280baaecfa9b18ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99903bc3118e6166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edf2f039399f93b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abcba58086b6855a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0288f5df7f5b6135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b74c4c8fd5fdab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8530032bed4db05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16db12cf97430e06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5c969150c1e97d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7053bb689682a7ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0dfa1662df69a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e68c689c0d244f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167c5f21a1bca318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лекция 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2df2344db781424",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лекция 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43ed872d9ef74bb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d815c01a0b4cb71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лекция 9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "99903bc3118e6166",
+  "lastOpenFiles": [
+    "Лекция 6.md",
+    "Лекция 5.md",
+    "Лекция 7.md",
+    "Лекция 8.md",
+    "Лекция 9.md",
+    "Pasted image 20240107184243.png",
+    "Pasted image 20240107183937.png",
+    "Pasted image 20240107183103.png",
+    "Pasted image 20240107182643.png",
+    "Pasted image 20240107182507.png",
+    "Pasted image 20240107182252.png",
+    "Pasted image 20240107173549.png",
+    "Pasted image 20240107173534.png",
+    "Pasted image 20240107173440.png",
+    "Pasted image 20240107173428.png",
+    "Лекция 4.md",
+    "Лекция 2.md",
+    "Лекция 3.md",
+    "~syncthing~Лекция 2.md.tmp",
+    "Лекция 1.md",
+    "Без названия.canvas",
+    "C++.md"
+  ]
+}

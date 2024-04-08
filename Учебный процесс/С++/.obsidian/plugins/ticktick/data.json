@@ -1,0 +1,36 @@
+{
+  "token": "b95c7d29-c6bb-4731-a2fa-ab6775a7dac6",
+  "projects": [
+    {
+      "id": "64cfce48b47cc9b1a134abdf",
+      "name": "Программирование",
+      "color": "#306619",
+      "sortOrder": 0,
+      "groupId": "64cfce45b47cc9b1a134abde",
+      "permission": "write",
+      "kind": "TASK"
+    },
+    {
+      "id": "64cfce8eb47cc9b1a134ac40",
+      "name": "Программирование",
+      "color": "#F1C231",
+      "sortOrder": -32768,
+      "closed": false,
+      "groupId": "64cfce45b47cc9b1a134abde",
+      "permission": "write",
+      "kind": "NOTE"
+    },
+    {
+      "id": "64cfdea0a1aee785911a6b39",
+      "name": "Цели",
+      "sortOrder": -114688,
+      "groupId": "64cfdca7a1ae6c911adaa77e",
+      "permission": "write",
+      "kind": "TASK"
+    }
+  ],
+  "avatarUrl": "https://profile-photo.s3.amazonaws.com/files/avatar/6041/MTIwODM3MTA2ZGZwM3RrbGU=/avatar.png?v=8d8b2eae870904f60282808dfb111acb",
+  "name": "Владислав «Vladislave» Савин",
+  "autoFetchData": true,
+  "login": true
+}
